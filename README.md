@@ -41,6 +41,9 @@ Final Year Computer Science Student 🎓 | Aspiring Software Engineer 💻 | Pol
 - 📚 Philosophy Enthusiast.
 - ♟️ Chess Player.
 
+## GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TumiPare&count_private=true&show_icons=true&theme=transparent" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=TumiPare&color=brightgreen)
 
 <!--

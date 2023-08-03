@@ -8,6 +8,9 @@ Final Year Computer Science Student 🎓 | Aspiring Software Engineer 💻 | Pol
 - 🧮 Strong foundation in mathematics and physical science.
 - 🌐 Fluent in English and Sepedi, with basic proficiency in Afrikaans.
 
+## GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TumiPare&count_private=true&show_icons=true&theme=transparent" />
+
 ## Tech Stack
 - 💻 Proficient in: Java, C++, Python, HTML, CSS, JavaScript.
 - 🌐 Web Dev: Angular, PHP, React.

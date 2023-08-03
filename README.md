@@ -15,7 +15,7 @@ Final Year Computer Science Student 🎓 | Aspiring Software Engineer 💻 | Pol
 - ⚙️ Tools: Git, Android Studio, VS Code.
 
 ## Currently Working On
-- 🌱 Developing (Where Is The Power)[https://github.com/COS301-SE-2023/Where-is-the-power].
+- 🌱 Developing [Where Is The Power](https://github.com/COS301-SE-2023/Where-is-the-power).
 
 
 ## Volunteering & Experience

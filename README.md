@@ -10,7 +10,7 @@ Final Year Computer Science Student 🎓 | Aspiring Software Engineer 💻 | Pol
 
 ## Tech Stack
 - 💻 Proficient in: Java, C++, Python, HTML, CSS, JavaScript.
-- 🌐 Web Dev: Angular, PHP, React.
+- 🌐 Web Dev: Angular, PHP.
 - 📦 Databases: SQL (MySQL), NoSQL (MongoDB, Firestore).
 - ⚙️ Tools: Git, Android Studio, VS Code.
 

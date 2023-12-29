@@ -1,6 +1,7 @@
 ## Hi there! 👋 I'm Tumi
 
-Final Year Computer Science Student 🎓 | Aspiring Software Engineer 💻 | Polyglot Coder 🌐
+Junior Software Developer at Psybergate: decoding the mysteries of code while sipping on bits of wisdom ☕💡 </br>
+Open source enthusiast by day, code poet by night 🌙
 
 ## GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TumiPare&count_private=true&show_icons=true&theme=transparent" />
@@ -8,7 +9,7 @@ Final Year Computer Science Student 🎓 | Aspiring Software Engineer 💻 | Pol
 ![Profile Views](https://komarev.com/ghpvc/?username=TumiPare&color=brightgreen)
 
 ## Currently Working On
-- 🌱 Developing [Chibiflex](https://github.com/TumiPare/chibiflix), [Chibiflex](https://github.com/TumiPare/animdl).
+- 🌱 Developing [Chibiflex](https://github.com/TumiPare/chibiflix)
 
 ## Tech Stack
 - 💻 Proficient in: Java, C++, Python.
